@@ -286,3 +286,4 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+/PcapDotNet.Binaries.1.0.2.76195.x64
